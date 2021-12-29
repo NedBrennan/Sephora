@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 b2ad88700aaaa5d1c17e177159c2cb68a5fe687e Ned.Brennan <nedbrnnn@gmail.com> 1637505838 -0500	commit (initial): initial commit
+b2ad88700aaaa5d1c17e177159c2cb68a5fe687e 944670fb1ee864a8b99175221126f1ed1809b4f4 Ned.Brennan <nedbrnnn@gmail.com> 1637525057 -0500	commit: minor updates
+944670fb1ee864a8b99175221126f1ed1809b4f4 383fd86e50fa2703c8f2972cae1f38b16b50ed21 Ned.Brennan <nedbrnnn@gmail.com> 1637555384 -0500	commit: single page scraping functional
+383fd86e50fa2703c8f2972cae1f38b16b50ed21 1a55d04d2c56af346b4a37787c470530c644f283 Ned.Brennan <nedbrnnn@gmail.com> 1637558244 -0500	commit: bot working with multiple pages, writing csv (no sku, description, location, or upc)
+1a55d04d2c56af346b4a37787c470530c644f283 5755005d495d834fbbb2c34e9671ca4413ecfbf7 Ned.Brennan <nedbrnnn@gmail.com> 1637609068 -0500	commit: everything working besides location and product with no variants
